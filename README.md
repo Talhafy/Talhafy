@@ -1,16 +1,18 @@
-## Hi there 👋
+![Talha Faruk Yıldırım — Backend and full-stack development](./talhafy-banner.gif)
 
-<!--
-**Talhafy/Talhafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Talha Faruk Yıldırım
 
-Here are some ideas to get you started:
+Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend ve full-stack geliştirmeye odaklanıyorum. Projelerimde mesajlaşma, görev takibi, randevu yönetimi ve sensör verisiyle çalışıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Öne çıkan projeler
+
+| Proje | Ne yapıyor? | Teknoloji |
+| --- | --- | --- |
+| [Mesajlaşma Uygulaması](https://github.com/Talhafy/mesajlasma-app) | Kullanıcıların mesaj alışverişi yapmasını sağlayan uygulama. | TypeScript |
+| [Kanban Board](https://github.com/Talhafy/Kanban-Board) | Görevleri aşamalarına göre düzenlemek ve ilerlemeyi takip etmek için görsel pano. | TypeScript |
+| [Spor Salonu Yönetimi](https://github.com/Talhafy/Web-Programming) | Spor salonu hizmetleri, antrenör uzmanlıkları ve üye randevuları için web uygulaması. | C# |
+| [Akıllı Bitki Sistemi](https://github.com/Talhafy/Smart-Plant-System) | Bitki koşullarını sensör verileriyle izleyen IoT projesi. | ESP8266 |
+
+## Staj
+
+Sakarya Üniversitesi UMDE programı kapsamında tam zamanlı, uzun dönem staja uygunum. Backend ve full-stack geliştirme pozisyonlarıyla ilgileniyorum.
